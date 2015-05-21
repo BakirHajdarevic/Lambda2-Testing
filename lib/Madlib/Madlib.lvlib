@@ -50,7 +50,7 @@
 	<Item Name="MCL Read Encoder Z.vi" Type="VI" URL="/&lt;userlib&gt;/Lambda2/lib/Madlib/VIs/MCL Read Encoder Z.vi"/>
 	<Item Name="MCL Read Wave Form N.vi" Type="VI" URL="/&lt;userlib&gt;/Lambda2/lib/Madlib/VIs/MCL Read Wave Form N.vi"/>
 	<Item Name="MCL Release All Handles.vi" Type="VI" URL="/&lt;userlib&gt;/Lambda2/lib/Madlib/VIs/MCL Release All Handles.vi"/>
-	<Item Name="MCL Release Handle.vi" Type="VI" URL="/&lt;userlib&gt;/Lambda2/lib/Madlib/VIs/MCL Release Handle.vi"/>
+	<Item Name="MCL Release Handle.vi" Type="VI" URL="../VIs/MCL Release Handle.vi"/>
 	<Item Name="MCL Reset Encoder Z.vi" Type="VI" URL="/&lt;userlib&gt;/Lambda2/lib/Madlib/VIs/MCL Reset Encoder Z.vi"/>
 	<Item Name="MCL Setup Load Wave Form N.vi" Type="VI" URL="/&lt;userlib&gt;/Lambda2/lib/Madlib/VIs/MCL Setup Load Wave Form N.vi"/>
 	<Item Name="MCL Setup Read Wave Form N.vi" Type="VI" URL="/&lt;userlib&gt;/Lambda2/lib/Madlib/VIs/MCL Setup Read Wave Form N.vi"/>
