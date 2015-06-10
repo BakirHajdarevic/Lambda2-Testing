@@ -109,7 +109,7 @@
 	<Item Name="Get Minimum Number In Series.vi" Type="VI" URL="../VIs/Get Minimum Number In Series.vi"/>
 	<Item Name="Get Most Recent Color Image16.vi" Type="VI" URL="../VIs/Get Most Recent Color Image16.vi"/>
 	<Item Name="Get Most Recent Image.vi" Type="VI" URL="../VIs/Get Most Recent Image.vi"/>
-	<Item Name="Get Most Recent Image16.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d/VIs/Get Most Recent Image16.vi"/>
+	<Item Name="Get Most Recent Image16.vi" Type="VI" URL="../VIs/Get Most Recent Image16.vi"/>
 	<Item Name="Get MS Timings Enabled.vi" Type="VI" URL="../VIs/Get MS Timings Enabled.vi"/>
 	<Item Name="Get New Data.vi" Type="VI" URL="../VIs/Get New Data.vi"/>
 	<Item Name="Get New Data8.vi" Type="VI" URL="../VIs/Get New Data8.vi"/>
